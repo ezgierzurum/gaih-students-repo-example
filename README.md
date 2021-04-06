@@ -2,8 +2,10 @@
 ![](img/newlogo.png)
 
 **Course Date:** DD.MM.YYYY  
-**Name:** Ezgi 
+**Name:** Ezgi
+
 **Surname:** Erzurum
+
 **Email:** ezgi.erzurum12@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  

@@ -1,7 +1,8 @@
-# GAIH Student Repo Example
+# GAIH Student Repo
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 05.04.2021 - 09.04.2021  
+
 **Name:** Ezgi
 
 **Surname:** Erzurum
